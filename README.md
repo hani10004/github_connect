@@ -33,5 +33,17 @@
             git add . 
       * 히스토리 만들기 (-m: 메세지를 의미함, ""안에는 히스토리 이름을 적음)
             git commit -m "first commit"
-      * 
-            g
+      * github에 repository를 만들고 그 주소와 연결하기 (이때, readme체크 하지 마!!!)
+            git remote add origin https://github.com/hani10004/css_flex.git
+      * 연결이 잘 되었는지 확인하기(선택사항)
+            git remote -v
+     *  github에 올리기
+            git push origin master
+----------------------
+## 수정하여 다시 업로드할때
+      1. 기존의 코드를 다운받는 행위를 해야한다.
+            git origin master 
+      2. 다시 push해야한다.
+            git push origin master
+      3. 
+            git 
