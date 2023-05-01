@@ -14,5 +14,24 @@
 
 ![Untitled-2](https://user-images.githubusercontent.com/129706997/235418164-47cb9d57-709d-480d-8fc3-584a4654d036.png)
 
+      * 유저 이름 설정하기 
+                  $ git config --global user.name "hani100"
 
-                  $ git config --global user.name "hani100^C
+      * 유저 이메일 설정하기
+                  $ git config --global user.email "zz113111@naver.com"
+
+       * 내 정보 확인 하기
+                  $ git config --list
+                  
+## 위의 연결은 해당 컴퓨터에서 한번에 실행하면 됨
+----------------------
+
+# github에 코드 업로드하기
+      * 초기화
+            git init
+      * 추가할 파일 (폴더안에 내용을 모두 올림, '.':(콤마)는 모든 파일을 의미, 띄어쓰기 해야함  
+            git add . 
+      * 히스토리 만들기 (-m: 메세지를 의미함, ""안에는 히스토리 이름을 적음)
+            git commit -m "first commit"
+      * 
+            g
