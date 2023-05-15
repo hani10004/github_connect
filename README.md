@@ -47,14 +47,23 @@
             git push origin master
 ----------------------
 # 깃허브 협업하는방법
+
+## 사원입장----------------------------------------
+
       1.소스코드 다운로드
       git clone+주소
       
       2.브랜치(branch) 만들기
-      git checkout -b ban
+      git checkout+브랜치이름
+      git checkout -b hani
       
-
-![git hana](https://github.com/hani10004/github_connect/assets/129706997/e89ac673-e04d-47db-8ab7-a5e4678fb836)
+      gid add . 
+      git commit -m "신입반하은"
+      
+      git push origin + 브랜치이름 
+      git push origin hani
+      
+![git hana](https://github.com/hani10004/github_connect/assets/129706997/ca239f65-6f67-4ffe-8d3c-d8777207be21)
 
 ![terminal](https://github.com/hani10004/github_connect/assets/129706997/b0f85b66-a073-4335-833c-39bc2ba22856)
 
