@@ -56,4 +56,7 @@
 
 ![git hana](https://github.com/hani10004/github_connect/assets/129706997/e89ac673-e04d-47db-8ab7-a5e4678fb836)
 
+![terminal](https://github.com/hani10004/github_connect/assets/129706997/2582b535-1d82-4589-adf7-ea9a5b4ffa2b)
+
+
 
