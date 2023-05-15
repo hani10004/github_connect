@@ -52,3 +52,7 @@
       
       2.브랜치(branch) 만들기
       git checkout -b ban
+      ![image](https://github.com/hani10004/github_connect/assets/129706997/e7c24d9c-ad1c-4a0e-8cf6-d3db4165f735)
+      ![image](https://github.com/hani10004/github_connect/assets/129706997/6a0bc363-1d3c-4a7f-9944-7b9a46bc4d48)
+
+
