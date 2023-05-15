@@ -45,5 +45,10 @@
             git origin master 
       2. 다시 push해야한다.
             git push origin master
-      3. 
-            git 
+----------------------
+# 깃허브 협업하는방법
+      1.소스코드 다운로드
+      git clone+주소
+      
+      2.브랜치(branch) 만들기
+      git checkout -b ban
